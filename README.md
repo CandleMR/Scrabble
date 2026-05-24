@@ -1,2 +1,2 @@
 # Scrabble
-This a little program I learned in CS50x
+This is a little program I learned in CS50x
